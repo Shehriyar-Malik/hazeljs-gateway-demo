@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.js
+*.d.ts
+*.d.ts.map
+*.js.map
+
+# macOS
+.DS_Store
